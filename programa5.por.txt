@@ -1,0 +1,16 @@
+programa
+{
+	funcao inicio () {
+real valor_do_real, contacao_do_dolar, valor_do_dolar
+escreva("Qual o valor do real?")
+leia(valor_do_real)
+escreva("Qual a cotação do dolar?")
+leia(contacao_do_dolar)
+valor_do_dolar = valor_do_real / contacao_do_dolar
+escreva("\nValor convertido: $", valor_do_dolar, "\n")
+}
+
+		
+		
+	}
+}
